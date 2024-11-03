@@ -1,6 +1,7 @@
 # bmx280_win
 
 i2c BME280/BMP280 port to Windows.
+
 Tested with CH341T_V3 I2C to USB to 3.3V with BMP280 & BME280.
 
 ## Installation & test
@@ -22,3 +23,5 @@ Activate the virtual environment.
 Execute the py example: python sensor.py.
 
 ## License
+
+[Apache-2.0] https://www.apache.org/licenses/LICENSE-2.0.html
