@@ -1,5 +1,2 @@
 /.venv
-/sensor.py
-/station.py
-/test.py
 /__pycache__
