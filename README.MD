@@ -1,6 +1,6 @@
 # bmx280_win
 
-i2c BME280/BMP280 port to Windows.
+i2c BME280/BMP280 code ported to Windows.
 
 Tested with CH341T_V3 I2C to USB to 3.3V with BMP280 & BME280.
 
