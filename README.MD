@@ -1,6 +1,10 @@
 # bmx280_win
 
-i2c BME280/BMP280 code ported to Windows.
+i2c BME280/BMP280 code ported from MicroPython project:
+
+[lemariva/uPySensors/bmx280.py] https://github.com/lemariva/uPySensors/blob/master/bmx280.py
+
+to Windows/Python.
 
 Tested with CH341T_V3 I2C to USB to 3.3V with BMP280 & BME280.
 
