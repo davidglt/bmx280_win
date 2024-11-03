@@ -1,7 +1,7 @@
 '''
-from https://github.com/lemariva/uPySensors
-Chris Wallace Jan 2021
-Windows port by David Gonzalez 2024
+Fork from lemariva/uPySensors/bmx280.py, https://github.com/lemariva/uPySensors
+Modified by Chris Wallace, Jan 2021
+Windows ported by David Gonzalez, Nov 2024
 '''
 
 from i2cpy import I2C
